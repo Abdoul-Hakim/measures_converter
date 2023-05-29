@@ -42,7 +42,7 @@ class MyAppState extends State<MyApp> {
               children: [
                 Spacer(),
                 Spacer(
-                  flex: 2,
+                  flex: 3,
                 ),
                 Text(
                   'Value',
